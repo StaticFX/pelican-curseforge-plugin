@@ -1,0 +1,18 @@
+{
+    "id": "curseforge-sync",
+    "name": "CurseForge Modpack Sync",
+    "author": "Devin",
+    "version": "1.0.2",
+    "description": "Drop in a CurseForge modpack export and sync the server's mods to it, automatically leaving out client-only mods",
+    "category": "plugin",
+    "url": null,
+    "update_url": null,
+    "namespace": "Devin\\CurseForgeSync",
+    "class": "CurseForgeSyncPlugin",
+    "panels": [
+        "server"
+    ],
+    "panel_version": null,
+    "api_version": 1,
+    "composer_packages": null
+}
